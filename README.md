@@ -1,4 +1,4 @@
-![Dashboard Preview](Screenshot 2026-04-25 132514.png)
+![Dashboard Preview](excel.png)
 
 # ☕ Coffee Shop Sales Analysis (Excel)
 
